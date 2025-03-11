@@ -1,0 +1,9 @@
+
+
+body {
+    background-image: url("/imagens/fundo-madeira.jpg");
+    background-position: right top;
+    background-size: 1920px 1080px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
