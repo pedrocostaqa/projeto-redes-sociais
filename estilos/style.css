@@ -41,18 +41,10 @@ iframe#tela {
     position: relative;
     top: 80px;
     left: 22px;
-    width: 270px;
+    width: 263px;
     height: 470px;
 }
 
-iframe#telayt {
-    display: inline;
-    position: relative;
-    top: 80px;
-    left: 22px;
-    width: 270px;
-    height: 470px;
-}
 
 
 .circulo {
